@@ -6,11 +6,11 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 ///=================When editing, do not accidentally delete anything !!MAIN-CONFIG=================================
-SESSION_ID: process.env.SESSION_ID || "jNUUFKiI#YfsBzKOAdNdt1s0efIXbPs_maWMGvOSDcYfejQOei2k",  // ADD Your Session Id 
+SESSION_ID: process.env.SESSION_ID || "jJcTXbDJ#iG5uf-A2Ln0JKt_qg0oedCOX15XCC3-Ug0JJOxqDhQI",  // ADD Your Session Id 
 MODE: process.env.MODE || "public",  // Add Your Bot Mode (groups/privet/public)
 PREFIX: process.env.PREFIX || ".",   // Add Your Custom Prefix 
 OWNER_REACT: process.env.OWNER_REACT || "true", //add true or false
-BOT_NAME: process.env.BOT_NAME || "𝙼𝙰𝙻𝚅𝙸𝙽 𝙼𝙳 v2",
+BOT_NAME: process.env.BOT_NAME || "𝐆𝐄𝐓𝐒𝐔𝐆𝐀 𝐓𝐄𝐍𝐒𝐇𝐎𝐔 𝙼𝙳",
 ///=================When editing, do not accidentally delete anything !!CUSTOM-SETTING-CONFIG=====================
 AUTO_VOICE: process.env.AUTO_VOICE || "true", //add true or false
 AUTO_STICKER: process.env.AUTO_STICKER || "true", //add true or false
@@ -26,6 +26,7 @@ GOOGLE_CX: process.env.GOOGLE_CX || "AIzaSyD93IeJsouK51zjKgyHAwBIAlqr-a8mnME",
 PASTEBIN_API_KEY: process.env.PASTEBIN_API_KEY || "uh8QvO6vQJGtIug9WvjdTAPx_ZAFJAxn",
 OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
 ///=================When editing, do not accidentally delete anything !!ALIVE-CONFIG================================
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/gdvaaw.jpg", //add alive img url
-ALIVE_MSG: process.env.ALIVE_MSG || "HI AME A WHATSAPP BOT CREATED BY MALVIN", //add alive msg
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/bu7bs1.jpg", //add alive img url
+ALIVE_MSG: process.env.ALIVE_MSG || "HI I AM 𝐆𝐄𝐓𝐒𝐔𝐆𝐀 𝐓𝐄𝐍𝐒𝐇𝐎𝐔 A WHATSAPP BOT CREATED BY 𝙄𝘾𝙃𝙄𝙂𝙊☾", //add alive msg
+ALIVE_AUDIO: process.env.ALIVE_AUDIO || "https://files.catbox.moe/xwk1yf.mp3" //add alive audio
 };
