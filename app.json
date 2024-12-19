@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "https://files.catbox.moe/bu7bs1.jpg",
       "required": true,
       "value": ""
     },  
@@ -16,7 +16,7 @@
     "ALIVE_IMG": {
       "description": "ALIVE URL.",
       "required": true,
-      "value": "https://i.imgur.com/vzDwkjg.jpeg"
+      "value": "https://files.catbox.moe/bu7bs1.jpg"
     }, 
     
     "ALIVE_MSG": {
